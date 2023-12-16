@@ -36,6 +36,7 @@ export default function App() {
       <h2>{count}</h2>
       <button onClick={add}>Add</button>
       <hr />
+      <br/>
       <button onClick={randomImage}>Click Me</button>
       <br />
       <br />
